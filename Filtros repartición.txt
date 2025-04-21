@@ -1,0 +1,5 @@
+Diego = aplicación de accesorio
+Gonzalo = saturación, profundidad de campo
+Ignacio = mezclar imagenes
+Lucas = Enfoque de objeto lejano, mezclar imagenes
+
